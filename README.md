@@ -11,5 +11,5 @@ library(devtools)
 # install_github('stephenslab/mr.ash')
 # install_github('stephenslab/ebnm')
 
-install_github('DongyueXie/smashrgen')
+install_github('william-denault/smashrgen')
 ```
